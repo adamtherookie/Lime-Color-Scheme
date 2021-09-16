@@ -1,15 +1,13 @@
-# `themer`
+# Lime Color Scheme
 
-Your theme's unique URL:
+Yet another color scheme repo.
 
-https://themer.dev/?colors.dark.shade0=%231e222a&colors.dark.shade7=%23dedede&colors.dark.accent0=%23e06c75&colors.dark.accent1=%2368829e&colors.dark.accent2=%23e5c07b&colors.dark.accent3=%2361afef&colors.dark.accent4=%23c678dd&colors.dark.accent5=%2398c379&colors.dark.accent6=%2398c379&colors.dark.accent7=%23c678dd&activeColorSet=dark
+# Screenshots
 
-If you find `themer` useful, here are some ways to support the project:
+![screenshot1](./screenshot1.png)
+![screenshot2](./screenshot2.png)
+![screenshot3](./screenshot3.png)
 
-* Star [`themer` on GitHub](https://github.com/mjswensen/themer)
-* Follow [@themerdev](https://twitter.com/themerdev) on Twitter
-* [Send a tip through the Brave Browser](https://brave.com/the537), either on [the repository page](https://github.com/mjswensen/themer) or [the Web UI](https://themer.dev)
-* Pay what you want when downloading your theme from [themer.dev](https://themer.dev)
 
 # Installation instructions
 
